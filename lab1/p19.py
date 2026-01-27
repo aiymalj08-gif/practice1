@@ -1,0 +1,5 @@
+old=input()
+target=input()
+new=input()
+change=old.replace(target, new)
+print(change)
